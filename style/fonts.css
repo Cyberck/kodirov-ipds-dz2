@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Metropolis-BlackItalic';
+  src: url(../fonts/Metropolis-BlackItalic.otf);
+}
+
+@font-face {
+  font-family: 'Metropolis-Bold';
+  src: url(../fonts/Metropolis-Bold.otf);
+}
+
+@font-face {
+  font-family: 'Metropolis-Medium';
+  src: url(../fonts/Metropolis-Medium.otf);
+}
+
+@font-face {
+  font-family: 'Metropolis-SemiBold';
+  src: url(../fonts/Metropolis-SemiBold.otf);
+}
+
+@font-face {
+  font-family: 'Rubik-Bold';
+  src: url(../fonts/Rubik-Bold.ttf);
+}
+@font-face {
+  font-family: 'Metropolis-Black';
+  src: url(../fonts/Metropolis-Black.otf);
+}
+@font-face {
+  font-family: 'Metropolis-Regular';
+  src: url(../fonts/Metropolis-Regular.otf);
+}
